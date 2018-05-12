@@ -1,0 +1,39 @@
+_repo: Holland-v.-1--of-2-_27799
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Zimmern, Helen
+    birthdate: &id001 1846
+    deathdate: 1934
+    gutenberg_agent_id: '1466'
+    url: http://www.gutenberg.org/2009/agents/1466
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Zimmern
+covers:
+- cover_type: archival
+  image_path: 27799-h/images/cover.jpg
+creator:
+  author:
+    agent_name: De Amicis, Edmondo
+    aliases:
+    - Amicis, Edmondo de
+    - Amicis, Edmundo de
+    - Amichis, Edmondo de
+    birthdate: *id001
+    deathdate: 1908
+    gutenberg_agent_id: '7650'
+    url: http://www.gutenberg.org/2009/agents/7650
+    wikipedia: http://it.wikipedia.org/wiki/Edmondo_De_Amicis
+description: ''
+gutenberg_issued: '2009-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DJ'
+- !lcsh 'Netherlands -- Description and travel'
+title: Holland, v. 1 (of 2)
+url: http://www.gutenberg.org/ebooks/27799
